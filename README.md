@@ -6,7 +6,7 @@ These databases will have 32 character strings as their key and json strings as 
 
 # Installation
 
-Just include `freshworks.py` in your program directory and import it in your program.
+Just include [freshworks.py](freshworks.py) in your program directory and import it in your program.
 
 # How to use
 
