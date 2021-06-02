@@ -48,7 +48,7 @@ Now that I have imported the class, I can instantiate it.
 obj = DataStore()
 ```
 
-Once I have the object, I can call any of the functions.</br>
+Once I have the object, I can call any of the functions.<br/>
 I'll start by calling the create() function.
 
 ```Python
@@ -75,7 +75,7 @@ print(obj.read("Key2"))
 ```
 After all the above operations are performed, this is how the .kvds file will look if opened in a text editor.
 
-```
+```json
 {
     "Key1": {
         "1": "A",
