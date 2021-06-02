@@ -6,7 +6,7 @@ These databases will have 32 character strings as their key and json strings as 
 
 # Installation
 
-Just include [freshworks.py](freshworks.py) in your program directory and import it in your program.
+Just include [datastore.py](./datastore.py) in your program directory and import it in your program.
 
 # How to use
 
@@ -40,12 +40,12 @@ js4 = '''{
 Now, I am importing the class for use in my Test Program.
 
 ```Python
-from freshworks import Freshworks
+from datastore import DataStore
 ```
 
 Now that I have imported the class, I can instantiate it.
 ```Python
-obj = Freshworks()
+obj = DataStore()
 ```
 
 Once I have the object, I can call any of the functions.</br>

@@ -19,8 +19,8 @@ js4 = '''{
 	"12":"L"
 }'''
 
-from freshworks import Freshworks
-obj = Freshworks()
+from datastore import DataStore
+obj = DataStore()
 
 obj.create("Key1", js1)
 obj.create("Key2", js2)
