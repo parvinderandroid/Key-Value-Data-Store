@@ -6,7 +6,7 @@ These databases will have 32 character strings as their key and json strings as 
 
 # Installation
 
-Just include [datastore.py](./datastore.py) in your program directory and import it in your program.
+Just include [datastore.py](datastore.py) in your program directory and import it in your program.
 
 # How to use
 
